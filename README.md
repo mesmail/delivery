@@ -103,5 +103,5 @@ Special Notes
 - We assume the rider is back on the same location once the food is prepared same as on how he was when confirming the ride
 - Some best practices are not used when implementing this app which is used only for simulation purposes.
 
-DevGrade Technical Support : +94743546446
+Technical Support : +601164933660
 =========================================
