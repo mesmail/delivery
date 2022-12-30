@@ -1,0 +1,28 @@
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.exe
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.deps.json
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.runtimeconfig.json
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.runtimeconfig.dev.json
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.dll
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.pdb
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.csproj.AssemblyReference.cache
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.AssemblyInfoInputs.cache
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.AssemblyInfo.cs
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.csproj.CoreCompileInputs.cache
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.dll
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.pdb
+D:\Projects\test2\db628d36-3199-4f9e-a871-170041d3d304\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.genruntimeconfig.cache
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.csproj.AssemblyReference.cache
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.AssemblyInfoInputs.cache
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.AssemblyInfo.cs
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.csproj.CoreCompileInputs.cache
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.dll
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.pdb
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.exe
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.deps.json
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.runtimeconfig.json
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.runtimeconfig.dev.json
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.dll
+D:\Projects\test2\New folder\HungryNow\bin\Debug\netcoreapp3.0\HungryNow.pdb
+D:\Projects\test2\New folder\HungryNow\obj\Debug\netcoreapp3.0\HungryNow.genruntimeconfig.cache

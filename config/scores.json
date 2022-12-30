@@ -1,0 +1,46 @@
+{
+  "bugs": [
+    {
+      "name": "Test estimated time",
+      "score": 5
+    },
+    {
+      "name": "Test spicy level update",
+      "score": 10
+    }
+  ],
+  "features": [
+    {
+      "name": "Test canceling order when food is not prepared within estimated time",
+      "score": 5
+    },
+    {
+      "name": "Test canceling order when food is not delivered within estimated time",
+      "score": 5
+    },
+    {
+      "name": "Test canceling order when food is prepared within estimated time",
+      "score": 5
+    },
+    {
+      "name": "Test canceling order when food is delivered within estimated time",
+      "score": 5
+    },
+    {
+      "name": "Test revise payments",
+      "score": 5
+    },
+    {
+      "name": "Test revise payments deducting from rider",
+      "score": 5
+    },
+    {
+      "name": "Test handling payments",
+      "score": 10
+    },
+    {
+      "name": "Test notify customer",
+      "score": 15
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+version: 1.0
+
+template_name: 99x-SSE-DotNet-2022-dotnet
+
+stack: dotnet
+
+test_files:
+  - "**/*Test.cs"

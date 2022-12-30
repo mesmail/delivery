@@ -1,0 +1,22 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "result.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.820.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "https": "^1.0.0",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.20",
+    "tar": "^6.0.5",
+    "xml2js": "^0.4.23",
+    "yaml": "^1.10.0"
+  }
+}
