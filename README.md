@@ -2,7 +2,7 @@ HungryNow is a food ordering app with some basic operations.
 
 Pre-requisites for the project: 
 
-- Install Git : https://git-scm.com/downloads
+- Install Git : https://github.com/mesmail/delivery.git
 - Install Visual Studio : https://visualstudio.microsoft.com/vs/community/
 - .NET Core 3.0 
 
